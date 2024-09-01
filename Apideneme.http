@@ -1,0 +1,6 @@
+@Apideneme_HostAddress = http://localhost:5082
+
+GET {{Apideneme_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
