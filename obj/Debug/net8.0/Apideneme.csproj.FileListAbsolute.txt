@@ -143,3 +143,4 @@ C:\Users\busra\source\repos\Apideneme\Apideneme\bin\Debug\net8.0\Microsoft.AspNe
 C:\Users\busra\source\repos\Apideneme\Apideneme\bin\Debug\net8.0\Microsoft.Extensions.Identity.Core.dll
 C:\Users\busra\source\repos\Apideneme\Apideneme\bin\Debug\net8.0\Microsoft.Extensions.Identity.Stores.dll
 C:\Users\busra\source\repos\Apideneme\Apideneme\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+C:\Users\busra\source\repos\Apideneme\Apideneme\obj\Debug\net8.0\Apideneme.sourcelink.json

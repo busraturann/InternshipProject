@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Apideneme")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f51a39549ebc8fa12c38467d25af5f13fd4a941c")]
 [assembly: System.Reflection.AssemblyProductAttribute("Apideneme")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Apideneme")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

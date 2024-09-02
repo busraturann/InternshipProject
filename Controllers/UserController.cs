@@ -1,6 +1,7 @@
 ﻿using Apideneme.Data;
 using Apideneme.Dtos;
 using Apideneme.Mappers;
+using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Mvc;
 
 namespace Apideneme.Controllers
@@ -17,6 +18,7 @@ namespace Apideneme.Controllers
         }
 
         [HttpGet]
+        [Authorize]
         public IActionResult GetAll() { 
         
             var contacts = _context.Contacts.ToList()
